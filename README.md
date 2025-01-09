@@ -7,12 +7,15 @@ Large Language Models (LLMS). It involves both theoretical study and practical i
 on real-world datasets, with the creation of a transformer-based LLM for the task of text summarisation.
 
 Models and topics covered:
+
 **Classification for sentiment analysis**
 - Naive Bayes
 - Logistic Regression
+
 **Clustering for sentiment analysis**
 - K-means
 - Latent Dirichlet Allocation (LDA)
+
 **Large Language Models (LLMs)**
 - Recurrent Neural Networks (RNNs)
 - Stacked and Bidirectional RNNs
