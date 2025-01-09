@@ -6,7 +6,7 @@ Covering three core areas of text analysis: classification for sentiment analysi
 Large Language Models (LLMS). It involves both theoretical study and practical implementation of various models
 on real-world datasets, with the creation of a transformer-based LLM for the task of text summarisation.
 
-Models and topics covered:
+### Models and topics covered:
 
 **Classification for sentiment analysis**
 - Naive Bayes
@@ -21,3 +21,17 @@ Models and topics covered:
 - Stacked and Bidirectional RNNs
 - Encoder-Decoder model
 - Transformer
+
+
+### References
+
+**Go Emotions dataset:** Demszky et al. “GoEmotions: A Dataset of Fine-Grained Emotions”. In: Google Rsearch (2020, ac
+cessed: 18 April 2024). url: https://paperswithcode.com/dataset/goemotions.
+
+**AG News dataset:**Zhang et al. “Character-level Convolutional Networks for Text Classification”. In: Courant Institute of
+ Mathematical Sciences (2016, accessed: 18 April 2024). url: https://paperswithcode.com/dataset/
+ ag-news.
+
+**CNN Daily News dataset:**Nallapati et al. “Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond”. In:
+ CoNLL (2016, accessed: 18 April 2024). url: https://paperswithcode.com/dataset/cnn-daily
+mail-1.
